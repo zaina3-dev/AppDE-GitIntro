@@ -1,0 +1,8 @@
+fichier vide
+<<<<<<< HEAD
+modification branche 1
+=======
+modification branche 2
+--> modifs en cours...
+--> modifs serveur git
+>>>>>>> 30a88a52c127d38817cb2b7ef3a76287198c4a8a
